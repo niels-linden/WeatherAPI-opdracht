@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherAPI Opdracht
 
 ## Methodes die gebruikt worden
 
