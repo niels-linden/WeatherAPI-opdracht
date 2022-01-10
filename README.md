@@ -15,7 +15,6 @@
 - Style je pagina ongeveer zoals op afbeelding 1.
 - Gebruik vaste waardes voor nu. (We gaan later een API gebruiken om het huidige weer op te halen.)
 - Icons kun je vinden in de map /icons (Voor de windrichting gebruik ik https://icon-sets.iconify.design/wi/wind-direction/)
-- Link je Javascript
 
 ### Stap 2. (API_KEY)
 
